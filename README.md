@@ -5,10 +5,13 @@
  
 
 ### Team Details
-Rajesh Anumula
-Bhavana Chowdhary Dodda
-Gayatri Vaka
 Pranav V. Kamble
+
+Rajesh Anumula
+
+Bhavana Chowdhary Dodda
+
+Gayatri Vaka
 
 ### Under the guidance of
 Dr. Atif Farid Mohammad
