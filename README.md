@@ -17,7 +17,8 @@ Dr. Atif Farid Mohammad
 
  
 
-Introduction
+### Introduction
+
 We are working on the empirical data gathered and made available by the Tanzanian Government as a result of a nationwide survey of water pumps and their natural sources. The goal of this project is to predict the status of the water pumps based on various data points gathered in the survey. By examining the data, the status can be functional, non-functional, or functional but needs repair.
 
 The primary objective of the problem statement is to identify the water pumps that need attention can be given the priority to service them to ensure that there is enough water availability across Tanzania
