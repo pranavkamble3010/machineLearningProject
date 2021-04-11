@@ -5,9 +5,9 @@
  
 
 ### Team Details
-Pranav V. Kamble
-Rajesh Anumula
-Bhavana Chowdhary Dodda
+Pranav V. Kamble,
+Rajesh Anumula,
+Bhavana Chowdhary Dodda,
 Gayatri Vaka
 
 ### Under the guidance of
