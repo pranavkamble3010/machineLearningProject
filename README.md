@@ -4,15 +4,13 @@
 ## A machine learning approach to predict the water pump's state based on the survey data made available by Tanzanian Government
  
 
-## Team Details
+### Team Details
 Rajesh Anumula
 Bhavana Chowdhary Dodda
 Gayatri Vaka
 Pranav V. Kamble
 
- 
-
-Under the guidance of
+### Under the guidance of
 Dr. Atif Farid Mohammad
 
  
